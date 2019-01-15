@@ -1,3 +1,3 @@
 # Panel Data Analysis
 ## Theory
-$$ y_it = \beta_iX  $$
+$ y_it = \beta_iX  $
